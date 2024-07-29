@@ -9,3 +9,8 @@ The implementation includes five algorithms: setup, keygen, hash, verify, and ad
 
 We evaluate the performance of the keygen, hash, verify and adapt algorithms in terms of the number of attributes and the size of policies. The performance of these algorithms is linear to the number of attributes (e.g., from 1 to 100) and the size of policies.
 
+Source Code
+If you need the source code or have any questions, feel free to contact me at msc.s.mahmoud@gmail.com.
+
+
+
